@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+draw_utils/__pycache__/
+tests/__pycache__/
+tests/vk_utils/__pycache__/
+time_utils/__pycache__/
+venv/
+vk_utils/__pycache__/
